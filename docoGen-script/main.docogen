@@ -1,0 +1,39 @@
+{
+    "title": "Docogen Example",
+    "options": {
+        "type":"article",
+        "version": "0.0.1"
+    },
+    "author": [
+        {
+            "name": "Kevin Cyu",
+            "email": "kevinbird61@gmail.com",
+            "org": "Nation Cheng Kung University",
+            "phone": "0912345678",
+            "website": "https://github.com/kevinbird61"
+        },
+        {
+            "name": "Yung-Sheng Lu",
+            "email": "yungshenglu1994@gmail.com",
+            "org": "Nation Chiao Tung University",
+            "phone": "0912345678",
+            "website": "https://github.com/yungshenglu"
+        }
+    ],
+    "abstract":{
+        "content": [
+            "I went down to the river,"
+            , "I set down on the bank."
+            , "I tried to think but couldn't,"
+            , "So I jumped in and sank."
+        ]
+    },
+    "article": [
+    ],
+    "reference":[
+        {
+            "name": "Kevin Cyu",
+            "content": "From NCKU, personal website: https://github.com/kevinbird61"
+        }
+    ]
+}
